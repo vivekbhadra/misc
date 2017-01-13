@@ -1,5 +1,5 @@
 /*
-*   Read a sequence of ints into a vector. Count how many elements have a given value.
+*   Read a sequence of strings of names into a vector. Count how many times a given name appears in the list. 
 */
 #include <iostream>
 #include <algorithm>
